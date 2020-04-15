@@ -22,7 +22,7 @@ require (
 	github.com/gorilla/mux v1.7.1
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
-	github.com/openshift/api v3.9.1-0.20190419161300-aae63d5f0f50+incompatible
+	github.com/openshift/api v0.0.0-20200413201024-c6e8c9b6eb9a
 	github.com/openshift/client-go v0.0.0-20190412095722-0255926f5393
 	github.com/openshift/library-go v0.0.0-20190419201117-4bae0f495ea7
 	github.com/pkg/profile v1.3.0 // indirect
@@ -30,11 +30,11 @@ require (
 	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/spf13/cobra v0.0.5
-	golang.org/x/crypto v0.0.0-20190611184440-5c40567a22f8
+	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
 	google.golang.org/api v0.13.0
-	k8s.io/api v0.0.0-20190918195907-bd6ac527cfd2
-	k8s.io/apimachinery v0.0.0-20190817020851-f2f3a405f61d
+	k8s.io/api v0.18.0
+	k8s.io/apimachinery v0.18.0
 	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
 	k8s.io/klog v1.0.0
 	k8s.io/test-infra v0.0.0-20191114175535-e3e01110acb8
